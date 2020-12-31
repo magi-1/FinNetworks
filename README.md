@@ -1,6 +1,6 @@
 # FinNetworks
 
-Trying my hand at financial markets. This is a work in progress, hoping to familiarize myself with full stack data science through this projcet. Think Airflow, Dask, Amazon AWS, etc. In terms of a rough class structure my plan is something like: portfolio -> API -> Research Suite(Backtester and portfolio analysis) -> abstract model class that plugs into everything allowing for quick prototyping of new strategies. Once this is in place then I will focus on the engineering/implimentation side of things using the aforementioned frameworks.
+Trying my hand at financial markets. This is a work in progress, I am hoping to familiarize myself with full stack data science through this projcet. Think Airflow, Dask, Amazon AWS, etc. In terms of a rough class structure my plan is something like: portfolio -> API -> Research Suite(Backtester and portfolio analysis) -> abstract model class that plugs into everything allowing for quick prototyping of new strategies. Once this is in place then I will focus on the engineering/implimentation side of things using the aforementioned frameworks.
 
 ## References
 
