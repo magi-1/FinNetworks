@@ -1,6 +1,6 @@
 # FinNetworks
 
-Trying my hand at financial markets. 
+Trying my hand at financial markets. This is a work in progress, hoping to familiarize myself with full stack data science through this projcet. Think Airflow, Dask, Amazon AWS, etc.
 
 ## References
 
